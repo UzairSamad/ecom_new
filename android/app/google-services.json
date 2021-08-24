@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "656548980999",
+    "project_id": "mini-front",
+    "storage_bucket": "mini-front.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656548980999:android:b14885f4cc80bf7b9ffda2",
+        "android_client_info": {
+          "package_name": "com.ecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656548980999-sept55c9skd1cha0c52t7hmllrk7d0bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqTDYFD5jTTwBY_sju7lkNg5xYgMbWYwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656548980999-sept55c9skd1cha0c52t7hmllrk7d0bi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
