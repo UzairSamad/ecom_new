@@ -57,8 +57,8 @@ export default function ProductDetail({ navigation, route }) {
                 </View>
                 <View>
 
-                    <Text style={{ fontSize: 20, marginVertical: 15, fontWeight: 'bold' }}>Reviews {data.review.length} </Text>
-                    {data.review.map((res, index) => {
+                    <Text style={{ fontSize: 20, marginVertical: 15, fontWeight: 'bold' }}>Reviews {data?.review?.length} </Text>
+                    {data?.review?.map((res, index) => {
                         return (
                             <View>
                                 <Text style={{ fontSize: 16 }}>
